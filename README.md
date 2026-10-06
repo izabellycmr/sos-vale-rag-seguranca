@@ -28,7 +28,7 @@ R: Não. Vigia não pode fazer outra tarefa [NR-33 item 33.3.4 g]
 R: Seguir rota de fuga para ponto de encontro [Fonte Vale PAEBM]
 
 ## Link do notebook compartilhado
-https://notebook.google.com/notebook/e5f409dd-868b-434b-8896-d33e5c801a40
+[https://notebook.google.com/notebook/e5f409dd-868b-434b-8896-d33e5c801a40](https://notebook.google.com/notebook/e5f409dd-868b-434b-8896-d33e5c801a40/preview)
 
 ## Materiais gerados no Studio
 - [Mapa Mental](https://notebooklm.link.google/ziOTeiOcOcK5)
