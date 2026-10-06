@@ -27,3 +27,14 @@ COLE AQUI SEU LINK DO NOTEBOOKLM - Compartilhar > Qualquer pessoa com link
 
 ## Evidências
 Prints na pasta /evidencias, mapa mental e slide em PDF
+
+## Link do notebook compartilhado
+https://notebooklm.google.com/notebook/cole-seu-link-principal-aqui
+
+## Mapa Mental e Slide gerados
+- [Mapa Mental - SOS Vale](https://notebooklm.link.google/ziOTeiOcOcK5)
+- [Slide - Apresentação SOS Vale](https://notebooklm.link.google/GO3yDRkwdOSV)
+
+## Evidências
+Prints do chat com citações [NR-33 pág 4] estão na pasta /evidencias
+Mapa mental em PNG e slide em PDF baixados do Studio do NotebookLM
